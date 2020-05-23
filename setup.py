@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='Tutorial for Developing and Deploying Dash App on Heroku',
-    author='Zane Rankin',
+    description='First Dash App deployed on heroku',
+    author='Gowri Jayaprakash',
     license='MIT',
 )
